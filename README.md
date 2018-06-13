@@ -65,7 +65,7 @@ questions were post-padded to get a consistent input for the
 model and delimiters were added to beginning and end of
 each sentence.
 
-Model
+Model:
 Our model has 3 main components which are as follows:
 1. Photo Feature Extractor: We have pre-processed the
 photos with the VGG model (removed the output layer
